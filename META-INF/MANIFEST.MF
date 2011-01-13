@@ -1,0 +1,65 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: BlackBerry Tablet OS BAR Packager 0.9.2
+
+Package-Type: application
+Package-Author: Sample Inc.
+Package-Author-Id: U2FtcGxlIEluYy4gICAgICAgICA
+Package-Name: sketchPad8f96403ec2d94c8f72bc0e12411d136
+Package-Id: NzJiYzBlMTI0MTFkMTM2ICAgICA
+Package-Version: 1.0.3.0
+Package-Version-Id: MS4wLjMuMCAgICAgICAgICAgICA
+Package-Architecture: armle-v7
+
+Application-Name: Sketch Pad
+Application-Id: c2tldGNoUGFkOGY5NjQwM2VjMmQ
+Application-Description: Uses HTML5 and Touch events to draw on an HTML5 canvas.  Created using the BlackBerry WebWorks App Platform.  Supported on BlackBerry 6 and PlayBook.
+Application-Version: 1.0.3.0
+Application-Version-Id: MS4wLjMuMCAgICAgICAgICAgICA
+Application-Category: core.internet
+
+Entry-Point-Name: Sketch Pad
+Entry-Point: app/air/sketchPad-app.xml
+Entry-Point-Type: Qnx/Air
+Entry-Point-Icon: air/appicon.png
+
+Archive-Asset-Name: air/sketchPad-app.xml
+Archive-Asset-SHA-512-Digest: B0XNRVotd1yu8UdW8VH78kYnqVQAA1Cx5s9knY8c0AsEUsHX5l2WRUT1shEtAzp_s2icXapH4l_YgcXXHR72uw
+
+Archive-Asset-Name: air/.DS_Store
+Archive-Asset-SHA-512-Digest: NAaugPBBFw_6_0MCBeqVIBBzdDYdCPSZHW8zvFqku700aaYB6D-2Crch1oAYll_NLRpHIqYHT4vrq0uoPA3drg
+
+Archive-Asset-Name: air/appicon.png
+Archive-Asset-SHA-512-Digest: TqrVLMsyXJsmp1UJn2Dls_hzJZzOQLHnOYGufZS5GSu-aqwdylJ2tmcgGpsxBE-RaXLcrpHWpxB3rE0AF49u2g
+
+Archive-Asset-Name: air/blackberry-tablet.xml
+Archive-Asset-SHA-512-Digest: Rqqn9VawDXVKmZixSoBxVdz1toDhGIIXj_85I1lZvSKxLLgL-7O5w50h58tjHjI-IWUJHwpg6iySc1VQv_hNNA
+
+Archive-Asset-Name: air/config.xml
+Archive-Asset-SHA-512-Digest: ashDWniCFOhI3XGU2avaLPpeqyyQmrxhcgZ8gIHTuWZ3LOEdjQFWZFOb75VWdCa7yk38cGfPZmI1KzA3ZRgFRw
+
+Archive-Asset-Name: air/index.htm
+Archive-Asset-SHA-512-Digest: YJVgp-W9jubic37FYCOJw-ddxX6HrSQcMrZgZhR6pDyJyozt-YY-AtVxVqIZaHK0PCiSFtiJViORZ8kVCuflwQ
+
+Archive-Asset-Name: air/js/.DS_Store
+Archive-Asset-SHA-512-Digest: Z7u-_sotsRPxMDM0BwRFz8UGlrLIoBaqhNmTgJ7UGmRzmDGAmtH_M6XFEb2PRGk0wj3dBoPlw0X4luG0hRucTw
+
+Archive-Asset-Name: air/js/sharedglobal/1_constants.js
+Archive-Asset-SHA-512-Digest: Fztve3mGoj02llT3zgNk1f23PW8Cfbp2JC1ypglUec73UgTbs3Lqrb_jsG4JUUIlnVDvqSTnvRIdBav2mfnEfw
+
+Archive-Asset-Name: air/js/sharedglobal/2_blackberry_ns.js
+Archive-Asset-SHA-512-Digest: fyfwLarG-BjI6FN0AQyeIxmTZCzSufpJctWmkcHTaNfxV9Hka8ixM-WzZHOAV1-YH-0Sxl4uyVhCv4Teo5h2Ug
+
+Archive-Asset-Name: air/js/sharedglobal/3_xhr.js
+Archive-Asset-SHA-512-Digest: RbqQmCiKEK6F4Pxku-82vez0IFj-uDnYul7Ix7uSrbEcHjIbr1uGbQgSzkaU06NViLwI_yDFzlaTGhK52zq0Ug
+
+Archive-Asset-Name: air/js/sharedglobal/4_events_ns.js
+Archive-Asset-SHA-512-Digest: jMJg7PuF_0AvzSMNt0DPUkyL28GoZMOoxKJ1MPFQNhYz3TVHUHsgNBe_d8kDT6J6MSu39t4LJm4SkwvzBLFiQQ
+
+Archive-Asset-Name: air/sketchPad.swf
+Archive-Asset-SHA-512-Digest: WV0FOMH-1dNaIvXVfLTjtCaVOpMJYDc7gzUQ4yKDCi5ohAFbQdTu0eYpek3X-x9AWTV2IEjCQ6NwlJUpccIIiQ
+
+Archive-Asset-Name: air/touch.js
+Archive-Asset-SHA-512-Digest: nUik8YY-DL3yCggQgP98MCqBlkyxvJPBDPdCHWBvMOrQgFsVV-jiwTbOVR8Djt7nvZoexJqMBga_SY6Hs-Wrhw
+
+Archive-Asset-Name: air/webworks/.DS_Store
+Archive-Asset-SHA-512-Digest: BkW_4g4eUHApdRRtHpDGoZL-p-0Z0SrKb1KlYOP3f1phuGfvHYxBPHeGQGm0Nx-roX6UlPDfQiDjUpBrGyMdXA
